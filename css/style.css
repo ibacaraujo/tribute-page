@@ -1,0 +1,84 @@
+h1 {
+	font-family: 'Pacifico';
+	font-size: 112px;
+	text-align: center;
+}
+
+#title {
+	font-size: 136px;
+}
+
+h2 {
+	margin-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.image {
+	margin-top: 40px;
+	background-color: black;
+	min-height: 400px; 
+}
+
+.col-sm-6 {
+	margin:0px;
+}
+
+.img-responsive {
+	margin:0px;
+}
+
+
+.text {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right:0;
+	margin-left: 0;
+}
+
+#qt {
+	font-family: 'Dekko';
+}
+
+p {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#sign {
+	float:right;
+	margin-right:100px;
+	font-size:20px;
+}	
+
+h3 {
+	font-family:'Pacifico';
+	text-align: right;
+	margin-right:20px;
+}
+
+
+.logo {
+	width:250px;
+	height:250px;
+}
+
+.quote {
+	margin-bottom: 50px;
+}
+
+.foto {
+	float: middle;
+	margin-right:0;
+}
+
+.links {
+	text-align: center;
+	font-size:30px;
+}	
+
+i {
+	margin-left: 8px;
+	color: black;
+}
